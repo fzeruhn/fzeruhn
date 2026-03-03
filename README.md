@@ -1,4 +1,4 @@
-# I’m Finn Zeruhn 👋
+# Finn Zeruhn
 
 I am a **Computer Science student at Rochester Institute of Technology (RIT)** with a focus on building scalable full-stack solutions and managing complex systems.
 
