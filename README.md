@@ -4,7 +4,7 @@ I am a **Computer Science student at Rochester Institute of Technology (RIT)** w
 
 Currently, I work as a **Lab Maintenance & Cage Worker** for RIT’s GCCIS Technical Operations, providing technical support and maintaining lab infrastructure.
 
-## 🛠 Technical Skills
+## Technical Skills
 
 * **Programming:** Java, Python, C, Rust, JavaScript, and REST
 * **Web & Data:** Angular, HTML/CSS, JSON, and XML
@@ -13,7 +13,7 @@ Currently, I work as a **Lab Maintenance & Cage Worker** for RIT’s GCCIS Techn
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### **Management Tool (Academic Team Project)**
 * **Environment:** SWEN 261, RIT.
@@ -28,12 +28,12 @@ Currently, I work as a **Lab Maintenance & Cage Worker** for RIT’s GCCIS Techn
 
 ---
 
-## 💼 Experience & Research
+## Experience & Research
 
 * **RIT GCCIS Technical Operations:** Resolve IT Helpdesk tickets and document hardware configurations to streamline lab operations
 * **Researcher (Seeds of Change):** Conducted controlled experiments and data analysis in Costa Rica, constructing technical reports for a scientific board
 
-## 📫 Connect
+## Connect
 * **Email:** [finn@zeruhn.com](mailto:finn@zeruhn.com)
 * **LinkedIn:** [linkedin.com/finn-zeruhn](https://linkedIn.com/finn-zeruhn)
 * **Location:** Stillwater, MN / Rochester, NY
